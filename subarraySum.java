@@ -1,4 +1,4 @@
-import java.util.Scanner; // brute-force-apporach
+import java.util.Scanner; // brute-force-apporach//subarray sum equals k
 
 public class subarraySum {
 

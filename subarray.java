@@ -1,4 +1,4 @@
-import java.util.HashMap;
+import java.util.HashMap; // optimal approch//subarray sum equals k
 import java.util.Scanner;
 
 public class subarray {

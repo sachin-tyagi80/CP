@@ -1,4 +1,4 @@
-import java.util.Scanner;
+import java.util.Scanner; // brute force apporach
 
 public class allsubarraySum {
 
